@@ -262,7 +262,7 @@ ul {
   width: 80vw;
   max-width: 1600px;
   max-height: 1000px;
-  background: url(../img/back-city-50.jpeg);
+  background: url(../img/background_for_white_block.jpeg);
   background-size: cover;
 }
 
@@ -305,7 +305,7 @@ ul {
 }
 .flex-two .div-img img {
   transition: 0.5s;
-  filter: grayscale(1);
+  filter: grayscale(0.5);
   transform: scale(1.05);
   width: 100%;
 }
@@ -542,9 +542,10 @@ footer p {
 
 .item__media-img {
   position: absolute;
-  top: 50%;
+  top: 0%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, 0%);
+  opacity: 0.75;
 }

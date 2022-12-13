@@ -12,7 +12,7 @@ var elPref={
     yRes:100/(startBoard.height+2*startBoard.gap),
     width:(startBoard.element/(startBoard.gap*2+startBoard.width)*100)+"%",
     height:(startBoard.element/(startBoard.gap*2+startBoard.height)*100)+"%",
-    standart:'<div class="e0"><div class="e1"></div><div class="e2"></div><div class="e3"></div></div>'
+    standart:'<div class="e0"><div class="e1"></div><div class="e2"></div></div>'
 }
 var gamePref={
     pop: 0,

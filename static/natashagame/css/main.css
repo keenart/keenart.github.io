@@ -506,7 +506,7 @@
 
 .clr-1 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(red), to(black));
-  background: linear-gradient(white, red, black);
+  background: linear-gradient(white, red,red,red, black);
 }
 
 .clr-1 .e2 {
@@ -515,7 +515,7 @@
 
 .clr-2 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(blue), to(black));
-  background: linear-gradient(white, blue, black);
+  background: linear-gradient(white, blue,blue,blue, black);
 }
 
 .clr-2 .e2 {
@@ -524,7 +524,7 @@
 
 .clr-3 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(green), to(black));
-  background: linear-gradient(white, green, black);
+  background: linear-gradient(white, green,green,green, black);
 }
 
 .clr-3 .e2 {
@@ -533,7 +533,7 @@
 
 .clr-4 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(yellow), to(black));
-  background: linear-gradient(white, yellow, black);
+  background: linear-gradient(white, yellow,yellow,yellow, black);
 }
 
 .clr-4 .e2 {
@@ -542,7 +542,7 @@
 
 .clr-5 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(mediumorchid), to(black));
-  background: linear-gradient(white, mediumorchid, black);
+  background: linear-gradient(white, mediumorchid,mediumorchid,mediumorchid, black);
 }
 
 .clr-5 .e2 {
@@ -551,7 +551,7 @@
 
 .clr-6 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(orange), to(black));
-  background: linear-gradient(white, orange, black);
+  background: linear-gradient(white, orange,orange,orange, black);
 }
 
 .clr-6 .e2 {
@@ -560,7 +560,7 @@
 
 .clr-7 .e1 {
   background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(lightblue), to(black));
-  background: linear-gradient(white, lightblue, black);
+  background: linear-gradient(white, lightblue,lightblue,lightblue, black);
 }
 
 .clr-7 .e2 {
